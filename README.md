@@ -1,7 +1,7 @@
 # product-database
 Script to create a database for products on base of the following activity:
 
-Product Catalog Database Design Challenge
+### Product Catalog Database Design Challenge
 
 Background: As an IT Software Engineer, you have been tasked with designing a relational database for a product catalog. The database will support the storage of product information, including categorization and product variations (e.g., different colors or sizes). Your goal is to create an SQL script that can be used to create this database. The SQL script should be compatible with any relational database system. 
 
@@ -34,21 +34,21 @@ Note: You are free to choose any table names, column names, and data types that 
 
 -- Show structure
 ``DESC PROD_VARIATIONS;
-``DESC PROD_CATEGORIES;
-``DESC CAT_OPTIONS;
-``DESC CATEGORIES;
-``DESC SUB_OPTIONS;
-``DESC PROD_OPTIONS;
-``DESC SUBCATEGORIES;
-``DESC PRODUCTS;
+DESC PROD_CATEGORIES;
+DESC CAT_OPTIONS;
+DESC CATEGORIES;
+DESC SUB_OPTIONS;
+DESC PROD_OPTIONS;
+DESC SUBCATEGORIES;
+DESC PRODUCTS;``
 
 
 -- Drop all
 ``DROP TABLE PROD_VARIATIONS;
-``DROP TABLE PROD_CATEGORIES;
-``DROP TABLE CAT_OPTIONS;
-``DROP TABLE CATEGORIES;
-``DROP TABLE SUB_OPTIONS;
-``DROP TABLE PROD_OPTIONS;
-``DROP TABLE SUBCATEGORIES;
-``DROP TABLE PRODUCTS;
+DROP TABLE PROD_CATEGORIES;
+DROP TABLE CAT_OPTIONS;
+DROP TABLE CATEGORIES;
+DROP TABLE SUB_OPTIONS;
+DROP TABLE PROD_OPTIONS;
+DROP TABLE SUBCATEGORIES;
+DROP TABLE PRODUCTS;``
