@@ -1,5 +1,6 @@
 teste
 teste2
+testes
 # product-database
 Script to create a database for products on base of the following activity:
 
